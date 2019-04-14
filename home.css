@@ -1,0 +1,11 @@
+h1{
+    color:white;
+    font-family:"broadway";
+    font-size: 40pt;
+}
+body{
+    background-image:url("content.jpg");
+    background-size:contain;
+    background-repeat: repeat;
+
+}

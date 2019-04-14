@@ -1,0 +1,47 @@
+body{
+    background-image: url("beach.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+h1#ss1{
+    color:white;
+    font-family:"broadway";
+    font-size: 40pt;
+}
+p.s1{
+    color: rgb(13, 58, 100);
+    font-family:"broadway";
+    font-size:25pt;
+  text-align: center;  
+  background-color:rgba(255, 255, 255, 0.3);
+}
+ul{
+list-style-type:none;
+margin: 0px;
+padding: 0px;
+background-color:rgba(255, 255, 255, 0.2);
+font-family: "broadway";
+}
+li{
+    display:block;
+   padding: 8px 16px;
+   text-align: center;
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:rgba(255, 255, 255, 0.2);
+    
+    
+}
+

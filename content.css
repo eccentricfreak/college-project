@@ -1,0 +1,45 @@
+h1#ss1{
+    color:white;
+    font-family:"broadway";
+    font-size: 40pt;
+}
+body{
+    background-image: url("c.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+ul{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgba(255, 255, 255, 0.2);
+    font-family: "broadway";
+    }
+    li{
+        display:inline;
+       padding: 8px 16px;
+       
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        font-size: 24px;
+        
+        
+    }
+    a:hover{
+        color:blackz;
+        text-decoration: none;
+        font-size: 30px;
+        background-color:rgba(8, 1, 1, 0.2);
+        
+        
+    }
+    p{
+        color: white;
+        font-family:"broadway";
+        font-size:20pt;
+        text-align: center;
+    }
+    
