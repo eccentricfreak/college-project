@@ -1,0 +1,220 @@
+
+body.bg
+{
+    background-image:url("green.jpg");
+    background-repeat:no repeat;
+    background-size:cover;
+    background-position:center;
+   filter: grayscale(60%);
+   
+    height:50%;
+}
+p{
+    color:white;
+    font-size:14pt;
+
+}
+h1{
+    color:white;
+    font-size:20pt;
+}
+form{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+button.but
+{
+    border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+    background-color:rgb(3, 44, 3);
+}
+a:link
+{
+    text-decoration: none;
+    color: white;
+}
+a:visited
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    text-decoration:underline;
+    color: white;
+}
+a:active
+{
+    text-decoration: underline;
+    color: white;
+}
+body.log
+{
+    background-image: url("login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+}
+h1.h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
+p.p1
+{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+
+}
+form.frm
+{
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+    
+    a:link.link {
+      text-decoration: none;
+      font-size: 12pt;
+      color: white;
+    }
+    
+    a:visited.link {
+      text-decoration: none;
+      color: white;
+    }
+    
+    a:hover.link {
+      text-decoration: underline;
+      color: white;
+    }
+    
+    a:active.link{
+      text-decoration: underline;
+      color: white;
+    }
+
+
+button
+{
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+      background-color:rgb(54, 6, 52);
+}
+a:link.link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited.link {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover.link {
+  text-decoration: underline;
+  color: white;
+}
+
+a:active.link{
+  text-decoration: underline;
+  color: white;
+}
+body.bd{
+    background-image: url("beach.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+h1#ss1{
+    color:white;
+    font-family:"broadway";
+    font-size: 40pt;
+}
+p.s1{
+    color: rgb(13, 58, 100);
+    font-family:"broadway";
+    font-size:25pt;
+  text-align: center;  
+  background-color:rgba(255, 255, 255, 0.3);
+}
+ul.ul{
+list-style-type:none;
+margin: 0px;
+padding: 0px;
+background-color:rgba(255, 255, 255, 0.2);
+font-family: "broadway";
+}
+li{
+    display:block;
+   padding: 8px 16px;
+   text-align: center;
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:rgba(255, 255, 255, 0.2);
+    
+    
+}
+body.bod
+{
+    background-image: url("home.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1.for{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+
+}
+p.para{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+form.form{
+    text-align: center;
+    color: white;
+    font-size: 14pt;
+}
+button.click{
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+      background-color:rgb(9, 6, 54);
+}
+
